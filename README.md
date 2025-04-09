@@ -1,4 +1,4 @@
-# 🛒 r Automation Script
+# 🛒  Automation Script
 
 A simple and practical Python automation script using `pyautogui` that simulates the complete flow of a user visiting the [GB Wear](https://www.gbwear.com.br) website. It closes the initial popup, navigates through the menu, selects a kimono, picks size `A1`, and adds it to the cart — all automatically.
 
